@@ -1,12 +1,12 @@
 {
-    "token": "",
-    "message": "" ,
-    "channel": "",
+    "token": "MTIyNDEyNDE1ODYyODIwMDUwOA.GM7bIb.Tlp8YMHuWq3IVdbNsbjF60x6S2zc5uAfktyXjg",
+    "message": ":youtube: New video! **{videoTitle}**! Uploaded by **{videoAuthorName}** on **{videoPubDate}**! Here's the link: {videoURL} Envie de partager vos vidéos ici ? Envoyez un message en privé au propriétaire. Want to share your videos here? Send a private message to the owner." ,
+    "channel": "1224125549123866685",
     "youtubers": [
         "Pewdiepie",
         "Squeezie",
         "NoTextToSpeech",
         "MrBeast"
     ],
-    "youtubeKey": ""
+    "youtubeKey": "AIzaSyAK_ItvGL0A3sygM-0tqzMwdR8qo6YKTwk"
 }
